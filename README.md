@@ -17,10 +17,10 @@
 
 ```
 ML-HousePricePrediction/
-├── notebook_v1.ipynb     # EDA, Cleaning, Feature Engineering, Model Training
-├── notebook_v2.ipynb     # Submission pipeline (MLflow model loading)
-├── submission.csv        # Kaggle submission
-└── README.md             # ეს ფაილი
+├── houseprices-experiment.ipynb     # EDA, Cleaning, Feature Engineering, Model Training
+├── inference.ipynb     # Submission pipeline (MLflow model loading)
+├── .png                # plots
+└── README.md            # ეს ფაილი
 ```
 ---
 
